@@ -14,7 +14,7 @@ using ThoriumMod.Tiles;
 
 namespace TheBereftSouls.Content.RecipeChanges;
 
-[ExtendsFromMod("FargowiltasSouls", "SOTS", "Thorium", "Spirit", "Calamity")]
+[ExtendsFromMod("FargowiltasSouls", "SOTS", "ThoriumMod", "SpiritMod", "CalamityMod")]
 public class ColossusSoulCraftingTree : ModSystem
 {
     public override void PostAddRecipes()
